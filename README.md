@@ -9,5 +9,5 @@ _Pierre saw that there was a conspiracy against him and that they wanted to reun
 
 Run the Sentiment_MS_REST_API.R, which creates the required POST call to the Microsoft Azure Cognitive Services and obtain the following gauge.
 
-![Sentiment 0%: Bad, 100%: Good](https://github.com/lucavignali/Sentiment-Analysis-Microsoft-API/blob/master/Rplot.png, "Comment")
+![Sentiment 0%: Bad, 100%: Good](https://github.com/lucavignali/Sentiment-Analysis-Microsoft-API/blob/master/Rplot.png)
 
