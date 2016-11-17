@@ -7,7 +7,8 @@ embedded within the function:
 
 _Pierre saw that there was a conspiracy against him and that they wanted to reunite him with his wife, and in the mood he then was, this was not even unpleasant to him._
 
-Run the Sentiment_MS_REST_API.R, which creates the required POST call to the Microsoft Azure Cognitive Services and obtain the following gauge.
+Run the Sentiment_MS_REST_API.R, which creates the required POST call to the Microsoft Azure Cognitive Services and obtain the following gauge. Score ranges from 0%, which is very negative, to 100%, which is very positive.
 
 ![Sentiment 0%: Bad, 100%: Good](https://github.com/lucavignali/Sentiment-Analysis-Microsoft-API/blob/master/Rplot.png)
+
 
