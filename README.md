@@ -12,7 +12,7 @@ Run the Sentiment_MS_REST_API.R, which creates the required POST call to the Mic
 ![Sentiment 0%: Bad, 100%: Good](https://github.com/lucavignali/Sentiment-Analysis-Microsoft-API/blob/master/Rplot.png)
 
 ## Computer vision example
-I have extended the approach applied in the Sentiment Analysis, to the Computer Vision API of MS Cngnitive Services. I was very impressed by the way the Cognitive engine works well. Try picture the picture available [here](http://hotelsandomingo.it/fotogallery/).
+I have extended the approach applied in the Sentiment Analysis, to the Computer Vision API of MS Cognitive Services. I was very impressed by the way the Cognitive engine works well. Try picture the picture available [here](http://hotelsandomingo.it/fotogallery/).
 
 For example if we analyze the following picture
 
@@ -30,4 +30,4 @@ __Description__
 
 1. a woman that is cooking some food on a table (31%)
 
-I like the desxcription very much!
+I like this description very much!
