@@ -38,4 +38,4 @@ Output <- content(result)
 sentiment_1 <- Output$documents[[1]]$score
 
 # Show the sentiment
-gg.gauge(sentiment_1*100,breaks=c(0,33,66,100))
+gg.gauge(sentiment_1*100,breaks=c(0,50,50,100))
