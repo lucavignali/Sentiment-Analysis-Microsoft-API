@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Microsoft-API plus Cpmuter Vision example
+# Sentiment-Analysis-Microsoft-API plus Copmuter Vision example
 Exercise to use the Cognitive Service API of Microsoft.
 
 ## How it works
