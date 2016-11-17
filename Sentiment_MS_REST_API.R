@@ -5,8 +5,9 @@
 
 library(httr)
 library(jsonlite)
-# Create the function to show the sentiment in a gauge
+# Create the function to show the sentiment in a gauge and get the text to analyze
 source("ggGauge.R")
+source("get_text.R")
 
 # According to API description, the Request body must include, language, id and text.
 # You can POST at the same time multiple sentences
