@@ -40,3 +40,10 @@ sentiment_1 <- Output$documents[[1]]$score
 
 # Show the sentiment
 gg.gauge(sentiment_1*100,breaks=c(0,50,50,100))
+
+# Generate the gauge with googleVis. It requires the data is a data frame.
+Gauge <-  gvisGauge(data.frame(label = "Sentiment",Sentiment=sentiment_1), 
+                    options=list(min=0, max=1, greenFrom=0.5,
+                                 greenTo=1, yellowFrom=0.5, yellowTo=0.5,
+                                 redFrom=0, redTo=0.5, width=400, height=300))
+plot(Gauge)

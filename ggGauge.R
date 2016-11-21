@@ -28,3 +28,6 @@ gg.gauge <- function(pos,breaks=c(0,30,70,100)) {
           panel.grid=element_blank(),
           panel.border=element_blank()) 
 }
+
+library(googleVis)
+
