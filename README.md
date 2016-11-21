@@ -13,7 +13,7 @@ Run the Sentiment_MS_REST_API.R, which creates the required POST call to the Mic
 
 As we are using web services for AI part, You can also use web services to crerate a nicer Gauge from Google.
 
-![GoogleVis](https://github.com/lucavignali/Sentiment-Analysis-Microsoft-API/blob/master/GoogleVisPlot.png)
+![GoogleVis](https://github.com/lucavignali/Sentiment-Analysis-Microsoft-API/blob/master/Rplot.png.png)
 
 ## Computer vision example
 I have extended the approach applied in the Sentiment Analysis, to the Computer Vision API of MS Cognitive Services. I was very impressed by the way the Cognitive engine works well. Try picture the picture available [here](http://hotelsandomingo.it/fotogallery/).
